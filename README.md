@@ -5,8 +5,8 @@
 ---
 
 ## 📜 Certifications
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-F05A28?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-24ADE3?style=for-the-badge&logo=comptia&logoColor=white)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-F05A28?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/users/peter-kang.05ad5831)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-24ADE3?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/users/peter-kang.05ad5831)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-BC1D1D?style=for-the-badge&logo=comptia&logoColor=white&label=In%20Progress)
 
 ---
