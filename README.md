@@ -27,13 +27,18 @@
 
 ### 🔵 Defensive & Infrastructure
 ![Security Onion](https://img.shields.io/badge/Security_Onion-231F20?style=for-the-badge&logo=securityonion&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00bfb3)
-![Sysmon](https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-0077CC?style=for-the-badge&logo=elastic&logoColor=white)
+![Microsoft Sysmon](https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183D61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### 🔴 Offensive & Analysis
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4D4DAE?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0072C4?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-990000?style=for-the-badge&logo=security&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-FF8C00?style=for-the-badge&logo=connectivity&logoColor=white)
+![Empire](https://img.shields.io/badge/PowerShell_Empire-0078D4?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
