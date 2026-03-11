@@ -2,19 +2,12 @@
 
 > A+ and Network+ certified professional currently pursuing Security+ and building hands-on experience in defensive security. I specialize in architecting SOC home labs to master telemetry collection, log analysis, and incident detection using industry-standard tools like Security Onion and the Elastic Stack. I am dedicated to bridging the gap between foundational IT networking and real-world security operations.
 
-- 🔭 **Current Focus**: Architecting a SOC Home Lab Infrastructure for telemetry collection.
-- 🌱 **Learning**: Mastering Sysmon configurations and log analysis within the Elastic Stack.
-- ⚡ **Goal**: Earning CompTIA Security+ and expanding lab capabilities for threat hunting.
-- 💬 **Ask me about**: Network fundamentals, VirtualBox environments, and SIEM basics.
-
 ---
 
 ## 📜 Certifications
-| Status | Certification |
-| :--- | :--- |
-| ✅ | **CompTIA Network+** |
-| ✅ | **CompTIA A+** |
-| ⏳ | **CompTIA Security+** (In Progress) |
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-F05A28?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-24ADE3?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-BC1D1D?style=for-the-badge&logo=comptia&logoColor=white&label=In%20Progress)
 
 ---
 
@@ -32,15 +25,15 @@
 
 ## 🛠️ My Digital Arsenal
 
-### 🔵 Defensive & Infrastructure (Primary)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-Defensive-green)
-![Sysmon](https://img.shields.io/badge/Sysmon-Telemetry-blue)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-Analysis-005571?logo=elastic)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183d61?logo=virtualbox)
+### 🔵 Defensive & Infrastructure
+![Security Onion](https://img.shields.io/badge/Security_Onion-231F20?style=for-the-badge&logo=securityonion&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00bfb3)
+![Sysmon](https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183D61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### 🔴 Offensive & Analysis
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Offensive-557C94?logo=kali-linux)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?logo=wireshark)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -51,5 +44,5 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/peter-kang-mba-3aa05a163)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_THM_USERNAME)
