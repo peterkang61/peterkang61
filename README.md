@@ -12,8 +12,9 @@
 ---
 
 ## 🏗️ Featured Project: SOC Home Lab
-**[View Project Write-up Here](INSERT_LINK_TO_YOUR_PROJECT_FOLDER)**
-*Built a dedicated security monitoring environment to capture and analyze endpoint telemetry.*
+[![SOC Lab Project](https://img.shields.io/badge/Project-SOC_Home_Lab-green?style=for-the-badge&logo=github)](https://github.com/peterkang61/SOC-Home-Lab)
+
+*A comprehensive security monitoring lab. Built a SIEM environment to detect simulated attacks (Nmap, Metasploit, Hydra) using **Security Onion** and **Sysmon**.*
 
 **The Stack:**
 * **SIEM/IDS**: Security Onion (Elasticsearch, Logstash, Kibana)
