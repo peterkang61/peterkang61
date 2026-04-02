@@ -23,6 +23,10 @@
 * **Operating Systems**: Windows 11 Enterprise, Kali Linux
 
 ---
+### 🔬 Case Studies & Simulations
+* **[AI Prompt Injection & IDS Detection](https://github.com/peterkang61/soc-homelab/tree/main/ai-prompt-injection)** * *Engineered custom Suricata rules to detect LLM jailbreak attempts and correlated host-level Sysmon telemetry to verify data exfiltration.*
+
+---
 
 ## 🛠️ My Digital Arsenal
 
