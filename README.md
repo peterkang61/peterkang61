@@ -24,7 +24,7 @@
 
 ---
 ## 🔬 Case Studies & Simulations
-* **[AI Prompt Injection & IDS Detection](https://github.com/peterkang61/soc-homelab/tree/main/ai-prompt-injection)** * *Engineered custom Suricata rules to detect LLM jailbreak attempts and correlated host-level Sysmon telemetry to verify data exfiltration.*
+* **[AI Prompt Injection & IDS Detection](https://github.com/peterkang61/SOC-Home-Lab/blob/main/Project-Prompt-Injection/README.md)** * *Engineered custom Suricata rules to detect LLM jailbreak attempts and correlated host-level Sysmon telemetry to verify data exfiltration.*
 
 ---
 
